@@ -91,18 +91,6 @@ npm install
 
 ---
 
-### 🔐 Environment Variables
-
-Create a `.env` file in the `server` folder:
-
-```env
-MONGO_URI=your_mongodb_connection
-AI_API_KEY=your_ai_api_key
-PORT=5000
-```
-
----
-
 ### ▶️ Run the Application
 
 #### Start backend server
