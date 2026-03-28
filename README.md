@@ -121,6 +121,7 @@ npm start
 *Add screenshots or GIFs here to improve engagement*
 
 ![image alt](https://github.com/manoj-kumar-43/Nova_ai_chat/blob/a08851b14f43975c127ca3cd7870ac9fda6d9125/Screenshot%202026-03-28%20105446.png)
+![image alt](https://github.com/manoj-kumar-43/Nova_ai_chat/blob/9757ef2246dc9d02f184214f8d957cc2b449f98d/Screenshot%202026-03-28%20105540.png)
 
 ---
 
